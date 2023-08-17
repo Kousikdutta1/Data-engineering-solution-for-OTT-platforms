@@ -1,7 +1,7 @@
 # Data-engineering-solution-Architecture-for-OTT-platforms
 Designed comprehensive Data Engineering solution to enhance user engagement on OTT platforms, employing end-to-end pipelines, Databricks analysis, and seamless integration with Power BI for personalized content delivery.
 
-## 🚀 Project Overview: Data engineering solution for OTT platforms
+## 🚀 Project Overview: Data engineering solution architecture for OTT platforms
 
 ## 📌 Project Description:
 As a dedicated Data Engineer on a mission to excel in the realm of data, I spearheaded the dynamic project "Data engineering solution for OTT platforms" This initiative centered around designing, developing, and optimizing robust data pipelines utilizing Azure and Hadoop ecosystems to empower strategic insights for major streaming services such as Amazon Prime, Netflix, and Disney Plus.
